@@ -7,6 +7,7 @@
 
 void Graphics::simulate()
 {
+    // Testing 
     this->loadBackgroundImg();
     while (true)
     {
